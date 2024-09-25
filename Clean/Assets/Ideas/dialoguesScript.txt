@@ -1,0 +1,28 @@
+dialoguePlayer.Add("Hey, Este m'a dit de vous retrouver ici après les cours.");
+        dialoguePlayer.Add("Toi c'est Thomas, c'est ça? Enchanté!");
+        dialoguePlayer.Add("J'avoue que j'en ai jamais vu une aussi belle, celle dans mon ancien bled était bien plus petite.");
+        dialoguePlayer.Add("Expert du terrain je sais pas, mais en mécanique, je me débrouille.");
+        dialoguePlayer.Add("Ouaip, c'est lui qui m'a dit que je serai avec toi.");
+        dialoguePlayer.Add("Je bricole souvent ouais.");
+        dialoguePlayer.Add("Ca marche, à toute!");
+
+        dialogueThomas.Add("Ah, c'est toi le nouveau du quartier? Este m'a parlé de toi. C'est quoi ton prénom déjà?");
+        dialogueThomas.Add("'name' c'est ça, très content de te rencontrer!");
+        dialogueThomas.Add("Je vois que tu regardes partout depuis tout à l'heure, elle te plaît notre base?");
+        dialogueThomas.Add("Un homme de goût et un expert du terrain en plus, tu vas monter vite toi!");
+        dialogueThomas.Add("Ah bah tu vas avoir la chance de passer du temps avec Esteban alors, c'est lui qui s'occupe du stand des véhicules." + "/" +
+            " Tu peux aller le voir pour qu'il t'explique comment ça marche ici.");
+        dialogueThomas.Add("Ah, c'est toi le nouveau du quartier? Este m'a parlé de toi. C'est quoi ton prénom déjà?");
+
+        dialogueEsteban.Add("Hey, content que tu sois venu. T'as croisé Thomas j'imagine?");
+        dialogueEsteban.Add("Ah, donc t'as de l'expérience en mécanique?");
+        dialogueEsteban.Add("Parfait, ça va aller vite alors! On va commencer rapidement par tes armes de guerre: un arc et une batte." + "/" + 
+            " Je te laisse t'entraîner sur les cibles et le pantin pour les prendre en main.");
+        dialogueEsteban.Add("T'es un naturel avec un arc, dis donc! Si t'es aussi bon en mécanique, ça va aller comme sur des roulettes!" + "/" +
+            " Alors, ici on a neuf types de modules pour construire nos machines: des blocs de structure, des roues droite et gauche," + "/" +
+            " des axes pour les roues, des ressorts, des pales droite et gauche, des canons avec leur pied rotatif et un ordinateur de contrôle." + "/" +
+            " Tu peux même utiliser les roues et les pâles pour faire avancer ta machine dans l'eau!" + "/" +
+            " Et quand t'as fini ta machine, on note le schéma de construction pour pouvoir la reconstruire plus tard." + "/" +
+            " Allez, je te laisse essayer tout ça!");
+        dialogueEsteban.Add("Eh beh, rien ne te résiste! Je te laisse t'amuser avec tout ça, je vais aller voir avec Thomas sur quelle mission on t'envoie." + "/" +
+            " Reviens me voir quand tu te sens prêt.");

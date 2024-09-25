@@ -1,0 +1,29 @@
+Create mountain
+Serialisation and vehicle selection
+UI for building
+Design cutscenes and dialogues
+Implement cutscene system
+Make water chase level: start from bottom right (enemy took sthing from bottom mid)
+Make girl model
+IK to lower/ up hands when shooting for enemies
+Ragdoll when ded
+
+Bandana?
+Revoir step (dinguerie?)
+Fix rota exit vehicle
+
+Reuse from old: cutscene system
+
+Day: ambient color = RGB 202
+FS003_day
+directional light = 1
+day postproc profile
+
+Night: ambient color = RGB 75
+FS003_night
+directional light = .1
+night postproc profile
+
+Tuto
+Rota cancel
+Fix reconstru auto

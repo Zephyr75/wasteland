@@ -1,0 +1,64 @@
+Thomas: chef
+Esteban: mécano et pote
+Player: nouveau dans la ville, mécano
+
+============================================================================INTRO
+
+===Entrée en marchant vers le camp (cinématique)
+
+Player - Hey, salut! 
+
+Thomas - Yo, qu'est ce que tu veux?
+
+Player - Esteban m'a dit de vous retrouver ici après les cours.
+
+Thomas - Ah, c'est toi qui vient d'arriver en ville. Este m'a parlé de toi.
+
+Player - Tu dois être Thomas alors, c'est ça?
+
+Thomas - Exact, et toi c'est quoi ton nom déjà?
+
+===Insérer prénom
+
+Thomas - AH oui c'est vrai! Et bah très content de te rencontrer "prénom"!
+
+Player - Très content d'être là aussi!
+
+Thomas - Je vois que tu regardes partout depuis tout à l'heure, elle te plaît notre base?
+
+Player - J'avoue que celle dans mon ancien bled était bien plus petite, celle là est bien plus classe! 
+
+Thomas - Ah mais j'ai affaire à un expert du terrain en plus!
+
+Player - Expert du terrain je dirai pas ça, mon domaine c'est plutôt la mécanique.
+
+Thomas - Ah bah tu vas avoir la chance de passer du temps avec Esteban alors, c'est lui qui s'occupe du stand des véhicules. Tu peux aller le voir pour qu'il t'explique comment ça marche ici.
+
+============================================================================TUTO
+
+===Décor de forêt
+
+Este - Hey, content que tu sois venu. T'as croisé Thomas j'imagine?
+
+Player - Ouaip, c'est lui qui m'a dit que je serai avec toi.
+
+Este - Ah, donc t'as de l'expérience en mécanique?
+
+Player - Je bricole souvent ouais.
+
+Este - Parfait, ça va aller vite alors! On va commencer rapidement par tes armes de guerre: un arc et une batte. Je te laisse t'entraîner sur les cibles et le pantin pour les prendre en main.
+
+===Activate gameplay à pied
+
+Este - T'es un naturel avec un arc, dis donc! Si t'es aussi bon en mécanique, ça va aller comme sur des roulettes! Alors, ici on a neuf types de modules pour construire nos machines: des blocs de structure, des roues droite et gauche, des axes pour les roues, des ressorts, des pales droite et gauche, des canons avec leur pied rotatif et un ordinateur de contrôle. Tu peux même utiliser les roues et les pâles pour faire avancer ta machine dans l'eau! Et quand t'as fini ta machine, on note le schéma de construction pour pouvoir la reconstruire plus tard. Allez, je te laisse essayer tout ça!
+
+===Activate building scene
+
+Este - Eh beh, rien ne te résiste! Je te laisse t'amuser avec tout ça, je vais aller voir avec Thomas sur quelle mission on t'envoie. Reviens me voir quand tu te sens prêt.
+
+Player - Ca marche, à toute!
+
+============================================================================MISSION 1
+
+Thomas - Este m'a dit que tu
+
